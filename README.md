@@ -21,17 +21,16 @@ The Employee Management System is a versatile web application designed to stream
 2. **Edit employee** information, including their personal and professional details.
 3. **Remove employees** from the system as necessary.
 4. **Access detailed employee** profiles in a structured report card format.
+<div>
+  <img src = "inputform.png" width="400"/>
+  <img src = "report card.png"  width="400"/>
+</div>
 
 ## Technologies
 
 - React.JS
 - HTML
 - CSS
-
-<div>
-  <img src = "inputform.png" width="400"/>
-  <img src = "report card.png"  width="400"/>
-</div>
 
 ## Usage
 
