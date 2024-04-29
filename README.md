@@ -1,30 +1,8 @@
-# Employee Management System
-The Employee Management System is a straightforward web application developed using React.js. It offers users a platform to efficiently handle employee records, enabling tasks such as adding new employees, modifying existing details, and accessing comprehensive employee information.
+# React + Vite
 
-# Key Features
-Add new employees with essential details like first name, last name, gender, age, salary, and department.
-Edit employee information, including their personal and professional details.
-Remove employees from the system as necessary.
-Access detailed employee profiles in a structured report card format.
-]
-# Technologies Utilized
-React.js
-HTML
-CSS
-Usage
-Clone the repository to your local machine.
-Navigate to the project directory.
-**Run npm install** to install project dependencies.
-Execute **npm start** to launch the development server.
-Access the application through your web browser at http://localhost:5173.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Author
-**2100032156 phaneendra nikhil**
+Currently, two official plugins are available:
 
-
-
-
-
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
