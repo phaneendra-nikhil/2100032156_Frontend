@@ -1,7 +1,7 @@
 ![logo](banner.png)
 <div>
-<img src = "inputform.png" />
-<img src = "table.png" />
+<img src = "inputform.png" width="400"/>
+<img src = "report card.png"  width="400"/>
 </div>
 
 # React + Vite
