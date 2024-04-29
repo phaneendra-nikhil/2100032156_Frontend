@@ -6,7 +6,8 @@ Add new employees with essential details like first name, last name, gender, age
 Edit employee information, including their personal and professional details.
 Remove employees from the system as necessary.
 Access detailed employee profiles in a structured report card format.
-]# Technologies Utilized
+]
+# Technologies Utilized
 React.js
 HTML
 CSS
